@@ -1,0 +1,31 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+}
+
+.jumbotron {
+    background-image: url(camp\ randall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 460px;
+    padding-top: 15px
+       
+}
+
+h1{
+    color: white;
+    text-align: center;
+    text-shadow: 4px 1px 1px gray;
+}
+
+h2{
+    color: red;
+    font-style: italic;
+    font-size: 25px
+}
+
+image{
+    width:100x
+}
